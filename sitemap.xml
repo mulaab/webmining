@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://mulaab.github.io/webmining/</loc>
-     <lastmod>2020-09-19</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/webmining/memahami/</loc>
-     <lastmod>2020-09-19</lastmod>
+     <loc>https://mulaab.github.io/webmining/Pengantar/</loc>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/webmining/Eksplorasi%20data/</loc>
-     <lastmod>2020-09-19</lastmod>
+     <loc>https://mulaab.github.io/webmining/webscrape/</loc>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/webmining/customization/</loc>
-     <lastmod>2020-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://mulaab.github.io/webmining/customization/</loc>
-     <lastmod>2020-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://mulaab.github.io/webmining/Eksplorasi%20data/</loc>
-     <lastmod>2020-09-19</lastmod>
+     <loc>https://mulaab.github.io/webmining/scrapwebsite/</loc>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
