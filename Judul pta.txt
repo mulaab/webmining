@@ -1,0 +1,12 @@
+//div[2]/div[1]/div[2]/ul/li/div[1]/a  Judul
+
+
+//div[2]/div[1]/div[2]/ul/li/div[1]/div[1]/span  Penulis
+//div[2]/div[1]/div[2]/ul/li/div[1]/div[2]/span  dosen
+
+//div[2]/div[1]/div[2]/ul/li/div[1]/div[3]/span  dosen 2
+
+
+//div[2]/div[1]/div[2]/ul/li[2]/div[3]/div[2]/p  abstrak
+
+/html/body/div[2]/div[1]/div[2]/ul/li[2]/div[3]/div[5]/a/span
